@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c35f9a2116e131b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71633beb1bc7951",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7729767337b5a9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tres definiciones de las palabras Física e Ingeniería.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db563538e7fe2a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d87711e37e4c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e30e79324517d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 parcial/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e8043e807ec55e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7869c872c7ef978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 parcial/Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 parcial/Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 parcial/Sin título.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "36e30e79324517d4",
+  "lastOpenFiles": [
+    "LEYES DE NEWTON investigacion.pdf",
+    "2 parcial/Sin título.md",
+    "2 parcial",
+    "Tres definiciones de las palabras Física e Ingeniería.md",
+    "Task and Project Management Dashboard.md",
+    "[.md",
+    "Sin título.md",
+    "Readme.md",
+    "Tarea.md",
+    "TODO.md",
+    "Projects/Contenido curso.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "Settings/Taskido/Tasks.md",
+    "Projects/Proasa.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md"
+  ]
+}

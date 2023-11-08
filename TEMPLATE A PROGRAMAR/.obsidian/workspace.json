@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c35f9a2116e131b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71633beb1bc7951",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7869c872c7ef978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task and Project Management Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b71633beb1bc7951",
+  "lastOpenFiles": [
+    "Task and Project Management Dashboard.md",
+    "TODO.md",
+    "Readme.md",
+    "Projects/Contenido curso.md",
+    "Untitled.md",
+    "Untitled src.md",
+    "Settings/Taskido/Tasks.md",
+    "Projects/Proasa.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e34b27f7034c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716d151b5e9cc048",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título 1.canvas",
+                "viewState": {
+                  "x": 2097.4083214591483,
+                  "y": 153.00288002596122,
+                  "zoom": -1.259125639373491
+                }
+              }
+            }
+          },
+          {
+            "id": "a34cd77b3152999f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fb5928bfb0b1e6ae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+                "viewState": {
+                  "x": 181.39482676104686,
+                  "y": 474.9324103893915,
+                  "zoom": -1.4052775195903855
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab3713f77f6066d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 1/04-10-2023/Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 517.5
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tareas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7869c872c7ef978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "fb5928bfb0b1e6ae",
+  "lastOpenFiles": [
+    "Settings/Taskido/Tareas.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+    "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título 1.canvas",
+    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título 1.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023",
+    "Task and Project Management Dashboard.md",
+    "Parcial 1/04-10-2023/Readme.md",
+    "Parcial 1/04-10-2023/binarios.md",
+    "Parcial 1/09-10-2023/Capa de Transporte.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231009184631.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Sin título.md",
+    "Parcial 1/06-09-2023/Concepto de arquitectura de redes.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.canvas",
+    "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023",
+    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023",
+    "Parcial 1/08-09-2023/Resumen de la Clase 08-09-2023.md",
+    "Pasted image 20230908191351.png.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/se califica.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Capa de transporte Inforgrafia.png",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Temas.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011185622.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011192512.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011191954.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011190506.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011185927.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/11-",
+    "Parcial 2/09-10-2023 UNIDAD 4/Unidad 4/1.png",
+    "Parcial 1/27-09-2023/Sin título.canvas",
+    "Parcial 1/25-09-2023/Tarea Protocolos y funcionalidad de la capa de aplicación..md",
+    "Parcial 1/04-10-2023/Pasted image 20231004192813.png",
+    "Parcial 1/04-10-2023/Pasted image 20231004192808.png",
+    "Parcial 1/04-10-2023/Pasted image 20231004191630.png",
+    "Parcial 1/04-10-2023/Pasted image 20231004190714.png",
+    "Parcial 1/04-10-2023/Pasted image 20231004190631.png",
+    "Parcial 1/04-10-2023/Que es un standar.md",
+    "Parcial 1/25-09-2023/Tarea.md",
+    "Parcial 1/27-09-2023/a.md",
+    "Parcial 1/04-10-2023/Pasted image 20231004190243.png",
+    "Parcial 1/04-10-2023/Pasted image 20231004190347.png",
+    "Parcial 1/04-10-2023/Pasted image 20230925192231.png",
+    "Settings/Config/Dash_project_kanban.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md",
+    "Settings/Config/Dash_calendar.md"
+  ]
+}

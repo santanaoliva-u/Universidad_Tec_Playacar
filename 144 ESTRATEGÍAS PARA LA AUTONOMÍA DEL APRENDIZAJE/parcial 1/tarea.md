@@ -1,0 +1,1 @@
+Redactar los siguientes conceptos: Autonomía, aprendizaje, proactivo, resistencia, tipos de aprendizaje

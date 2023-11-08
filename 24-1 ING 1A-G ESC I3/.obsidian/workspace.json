@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c35f9a2116e131b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7812ca561bab76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 2/12-10-203/12-10-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "383d184960844084",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "69a5f0593e432fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 2/26-10-2023/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbeeef87057206d7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "26986097b87ce84c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab3713f77f6066d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Parcial 1/26-09-2023/Recording 20230926093452.webm"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "87094da96d8a12e9",
+        "type": "tabs",
+        "dimension": 73.89033942558747,
+        "children": [
+          {
+            "id": "1e85b7fa0a9c4823",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Parcial 1/26-09-2023/Sin título.canvas",
+                "viewState": {
+                  "x": 40.63024500146005,
+                  "y": -478.47542478932905,
+                  "zoom": -1.218433655467831
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "dimension": 26.109660574412537,
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "7869c872c7ef978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Parcial 1/Task and Project Management Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "26986097b87ce84c",
+  "lastOpenFiles": [
+    "Parcial 2/26-10-2023/Sin título.md",
+    "Pasted image 20231026082757.png",
+    "Pasted image 20231026081322.png",
+    "Parcial 1/Task and Project Management Dashboard.md",
+    "Parcial 2/26-10-2023",
+    "Parcial 2/12-10-203/12-10-2023.md",
+    "Recording 20231012095545.webm",
+    "Recording 20231012093827.webm",
+    "Recording 20231012092949.webm",
+    "Parcial 2/12-10-203/12-10-2023.canvas",
+    "Parcial 2/10-10-2023.md",
+    "Parcial 2/12-10-203/1RA PERSONA.canvas",
+    "Recording 20231012092127.webm",
+    "Recording 20231012091933.webm",
+    "Recording 20231012091218.webm",
+    "Pasted image 20231012091214.png",
+    "Recording 20231012090854.webm",
+    "Pasted image 20231012090841.png",
+    "Recording 20231012090142.webm",
+    "Recording 20231012085419.webm",
+    "Pasted image 20231012085415.png",
+    "Pasted image 20231012084911.png",
+    "Pasted image 20231012084525.png",
+    "Pasted image 20231012084456.png",
+    "Pasted image 20231012083325.png",
+    "Pasted image 20231012082407.png",
+    "Parcial 1/28-09-2023/Sin título 1.md",
+    "Parcial 1/Sin título.md",
+    "Recursos/Sin título.md",
+    "Parcial 1/26-09-2023/Sin título.md",
+    "Dash_project_src.md",
+    "Parcial 1/Sin título 1.md",
+    "Settings/Taskido/Tareas.md",
+    "Pasted image 20230928083934.png.md",
+    "Parcial 1/26-09-2023/Sin título.canvas",
+    "Parcial 1/26-09-2023/Readme.md",
+    "Que es un standar.md",
+    "25-09-2023/Tarea.md",
+    "Tarea Protocolos y funcionalidad de la capa de aplicación..md",
+    "Settings/Config/Dash_project_kanban.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md",
+    "Settings/Config/Dash_calendar.md",
+    "Settings/README.md",
+    "Projects/Personajes belicos.md",
+    "Projects/Dataview.md",
+    "08-09-2023/Resumen de la Clase 08-09-2023.md",
+    "06-09-2023/Concepto de arquitectura de redes.md"
+  ]
+}

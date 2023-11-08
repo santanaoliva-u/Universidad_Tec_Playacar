@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"a7bfc645f374c51d","x":-321,"y":-226,"width":250,"height":60,"type":"text","text":"we"},
+		{"id":"9dfb27811516c063","x":-30,"y":-226,"width":250,"height":60,"type":"text","text":"eat"},
+		{"id":"edc31017cd6f993c","x":260,"y":-226,"width":250,"height":60,"type":"text","text":"sushi"},
+		{"id":"0a35ee8b49a660d7","x":540,"y":-226,"width":250,"height":60,"type":"text","text":"every"},
+		{"id":"bf65e74a67acc0ed","x":840,"y":-226,"width":250,"height":60,"type":"text","text":"week end."},
+		{"id":"f5104dd5ceb41c03","x":-321,"y":-144,"width":250,"height":60,"type":"text","text":"P.P"},
+		{"id":"b43558f205d52436","x":-30,"y":-144,"width":250,"height":60,"type":"text","text":"AUX"},
+		{"id":"6c34453632202eaa","x":540,"y":-141,"width":250,"height":60,"type":"text","text":"VERBO"},
+		{"id":"f2d865eb4a785676","x":260,"y":-144,"width":250,"height":60,"type":"text","text":"NOT"},
+		{"id":"18f849dbecb68167","x":840,"y":-141,"width":250,"height":60,"type":"text","text":"COMPLEMENTO"},
+		{"id":"63ba45b3e2acd297","x":-600,"y":-144,"width":250,"height":60,"type":"text","text":"(-)"},
+		{"id":"9c2def229c428d34","x":-600,"y":-226,"width":250,"height":60,"type":"text","text":"(+)"},
+		{"id":"fa8054ac7fa46473","x":-600,"y":0,"width":250,"height":60,"type":"text","text":"(?)"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "247fae42fb4b7c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899481be9b5fbb0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc936a7980f9b1da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9a5f192058db53c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94ed0c00bd98f72a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "22597c7e1c1db415",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbab8c4908f7eec8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b19d173b9ac9390",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "de86f94fbc0022b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1871fe87a656baa2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8c141814cafc6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca5bdc03863aee9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "c55d8f3250f910bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false
+    }
+  },
+  "active": "8c141814cafc6cfe",
+  "lastOpenFiles": [
+    "Sin título 1.md",
+    "Pasted image 20231028150346.png",
+    "Libros/Cómo tocar el piano  un modo nuevo y de fácil comprensión para aprender a tocar el piano (Evans, Roger Paul) (Z-Library).pdf",
+    "Task and Project Management Dashboard.md",
+    "Pasted image 20231029134708.png",
+    "Pasted image 20231028150312.png",
+    "Sin título.md",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/40 - Schubert - Ave María.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/39 - Chopin - Nocturno nº 2 Op 9.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/38 - Puccini  - Tosca - Adiós a la vida.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/37 - Verdi - La traviata - Brindis.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/36 - Puccini - Turandot - Nessun dorma.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/35 - Ponchielli - Danza de las horas.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/34 - Puccini - Madama Butterfly - Un bel di vedremo.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/33 - Mascagni - Cavalleria Rusticana - Intermezzo.pdf",
+    "Libros/Curso de piano y Teclados. Antologia Clasica - 1 () (Z-Library)/32 - Puccini - Tosca - Vissi d'arte.pdf",
+    "27-09-2023/a.md",
+    "27-09-2023/Pasted image 20230927174110.png",
+    "18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
+    "27-09-2023/Napoleon.md",
+    "Tasks/2023-09-27.md",
+    "27-09-2023/Sin título.md",
+    "Settings/Templates/tpl.project.md",
+    "Settings/Templates/tpl.src.md",
+    "Settings/README.md",
+    "src/142 FUNDAMENTOS DE INGENIERIA EN DEL SOFTWARE 24-1.md",
+    "src/Dataview - Obsidian.md",
+    "Tasks/2023-01-25.md",
+    "Tasks/2023-09-15.md",
+    "25-09-2023/Pasted image 20230925174429.png",
+    "25-09-2023/Modelo de clase.canvas",
+    "25-09-2023/Diagramas de clase.md",
+    "25-09-2023/Diagrama de clase.canvas",
+    "18-09-2023 Modelado de software/18-09-2023/Readme.md",
+    "18-09-2023 Modelado de software/18-09-2023/UML APUNTES.md",
+    "15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/Casos de uso.md",
+    "25-09-2023/Pasted image 20230925174203.png",
+    "Settings/Taskido/Tasks.md",
+    "Tasks/2023-09-26.md",
+    "Settings/Config/Dash_tasks.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_project_kanban.md",
+    "Projects/Dataview.md",
+    "25-09-2023/Pasted image 20230925184009.png",
+    "15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/CASO DE USO.canvas",
+    "18-09-2023 Modelado de software/18-09-2023/Pasted image 20230918203019.png",
+    "18-09-2023 Modelado de software/18-09-2023/Pasted image 20230918203000.png",
+    "18-09-2023 Modelado de software/18-09-2023/Pasted image 20230918202949.png",
+    "15-09-2023/Sin título.canvas"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "6dcae702f1edc783",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c35f9a2116e131b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71633beb1bc7951",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "76be83370c9ade77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3d8d390181bd126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7197dc075fa5b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb674a514f0b779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Parcial/05-09-2023/Criterios de Evaluacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab1e4d2528e49779",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1 Parcial/09-07-2023/Pasted image 20230907151150.png"
+              }
+            }
+          },
+          {
+            "id": "dbaa9f8fe7074909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parcial 2/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2911b97995f7d971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parcial 2/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca775c007d54d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee96f0198512fdc",
+        "type": "tabs",
+        "dimension": 57.40365111561866,
+        "children": [
+          {
+            "id": "28b957293e017db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4559e6b71f7885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8fb16d60a177124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ac709e9406aff84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "972e1e73f65ef1ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ad969a2dd1abab6",
+        "type": "tabs",
+        "dimension": 42.59634888438134,
+        "children": [
+          {
+            "id": "572e1ee551f181d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "9301136ca93b4253",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e268e793d7a360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f370ce9f1023b8b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7869c872c7ef978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff7228a375cdac0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task and Project Management Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92502426f3ea1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task and Project Management Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "b71633beb1bc7951",
+  "lastOpenFiles": [
+    "parcial 2/Sin título 1.md",
+    "Pasted image 20231031191435.png",
+    "parcial 2/Sin título.md",
+    "Sin título.canvas",
+    "Pasted image 20231031183213.png",
+    "Task and Project Management Dashboard.md",
+    "Pasted image 20231026180852.png",
+    "Pasted image 20231026180736.png",
+    "Pasted image 20231026180617.png",
+    "parcial 2/arreglo_numeros.psc",
+    "1 Parcial/Tareas/Tarea Resuelveme estas operaciones arimeticas aso a paso (2).pdf",
+    "1 Parcial/Tareas/Tarea de Algoritmos (2).pdf",
+    "1 Parcial/Tareas/subir tarea (1).pdf",
+    "1 Parcial/Tareas/Tarea_4_Metodologia.pdf",
+    "1 Parcial/Tareas/Tarea_5_Descagar_PSEINT.pdf",
+    "1 Parcial/Tareas/Las funciones primitivas (1).pdf",
+    "1 Parcial/Tareas",
+    "1 Parcial/Nueva carpeta",
+    "1 Parcial/09-07-2023/Pasted image 20230907154801.png",
+    "1 Parcial/09-07-2023/Pasted image 20230907152216.png",
+    "1 Parcial/09-07-2023/Pasted image 20230907151539.png",
+    "1 Parcial/09-07-2023/Pasted image 20230907152121.png",
+    "1 Parcial/09-07-2023/Pasted image 20230907151831.png",
+    "1 Parcial/09-07-2023/DISENO ESTRUCTURADO 07-09-2023.md",
+    "Readme.md",
+    "1 Parcial/05-09-2023/Criterios de Evaluacion.md",
+    "Sin título.md",
+    "1 Parcial",
+    "Settings/README.md",
+    "TODO.md",
+    "Projects/Contenido curso.md",
+    "Untitled.md",
+    "Untitled src.md",
+    "Settings/Taskido/Tasks.md",
+    "Projects/Proasa.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md"
+  ]
+}
