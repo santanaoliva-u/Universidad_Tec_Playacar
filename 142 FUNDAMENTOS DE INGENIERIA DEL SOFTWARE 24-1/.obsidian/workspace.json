@@ -8,92 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93095c06741bbb71",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "unidad 2/tareas/Sin título.canvas",
-                "viewState": {
-                  "x": -27.5,
-                  "y": -1077,
-                  "zoom": -3.4561807351480516
-                }
-              }
-            }
-          },
-          {
-            "id": "aaf12ff8f6f3d943",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d29b88e14dccd697",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "unidad 2/06-11-2023/Sin título.canvas",
-                "viewState": {
-                  "x": -201.45321497178384,
-                  "y": 460.23352155811347,
-                  "zoom": -0.2577942718068789
-                }
-              }
-            }
-          },
-          {
-            "id": "b0d690b1ab75c967",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c55884471d858ac4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2acf08db1fc08a9a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "54b1450e59d94041",
             "type": "leaf",
             "state": {
@@ -106,35 +20,21 @@
             }
           },
           {
-            "id": "d27fede41e2ee1e5",
+            "id": "3c2580bc8cd3a603",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2ec108f9a9f375e8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
-                "mode": "preview",
+                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Home.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,21 +118,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "75e7a86e870a3977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Settings/Taskido/Tasks.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,6 +142,18 @@
             }
           },
           {
+            "id": "75e7a86e870a3977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Taskido/Tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6315934526d4701d",
             "type": "leaf",
             "state": {
@@ -272,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
+                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md"
+                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Home.md"
               }
             }
           },
@@ -294,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
+                "file": "unidad 1/18-09-2023 Modelado de software/18-09-2023/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,16 +225,33 @@
       "obsidian-audio-notes:Quick Audio Note with Transcription": false
     }
   },
-  "active": "2ec108f9a9f375e8",
+  "active": "3c2580bc8cd3a603",
   "lastOpenFiles": [
-    "Settings/Taskido/Tasks.md",
-    "unidad 1/18-09-2023 Modelado de software/18-09-2023/Task and Project Management Dashboard.md",
     "unidad 2/11-10-2023/Programacion Orientada a objetos.md",
+    "unidad 1/18-09-2023 Modelado de software/18-09-2023/Readme.md",
+    "Settings/Taskido/Tasks.md",
+    "unidad 1/18-09-2023 Modelado de software/18-09-2023/Home.md",
+    "unidad 2/tareas/Sin título.canvas",
+    "Horario de Sistemas.png",
+    "Projects/Dataview.md",
+    "Projects/Personajes belicos.md",
+    "Settings/Config/Dash_calendar.md",
+    "Settings/Config/Dash_projects.md",
+    "Settings/Config/Dash_header.md",
+    "Settings/Config/Dash_project_kanban.md",
+    "src/Dataview - Obsidian.md",
+    "src/142 FUNDAMENTOS DE INGENIERIA EN DEL SOFTWARE 24-1.md",
+    "Tasks/2023-09-15.md",
+    "Tasks/2023-09-26.md",
+    "Tasks/2023-09-27.md",
+    "Tasks/2023-01-25.md",
+    "Settings/Templates/tpl.src.md",
+    "Settings/Templates/tpl.project.md",
+    "Settings/README.md",
     "unidad 2/06-11-2023/Sin título.canvas",
     "Pasted image 20231106173759.png",
     "unidad 2/06-11-2023/Sin título.md",
     "unidad 2/06-11-2023",
-    "unidad 2/tareas/Sin título.canvas",
     "Pasted image 20231102204029.png",
     "Pasted image 20231102204009.png",
     "Pasted image 20231102204003.png",
@@ -344,7 +260,6 @@
     "Pasted image 20231102203410.png",
     "Pasted image 20231102203344.png",
     "Pasted image 20231102203112.png",
-    "Pasted image 20231102203033.png",
     "unidad 1/09-10-2023/Sin título.md",
     "Recording 20231006180836.webm",
     "unidad 2/23-10-2023/Sin título.md",
@@ -353,32 +268,17 @@
     "unidad 1/08-09-2023/8-09-2023 TAREA.md",
     "unidad 1/08-09-2023/NUM .08.md",
     "unidad 1/15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/Casos de uso.md",
-    "unidad 2/tareas/Sin título.md",
     "unidad 2/tareas",
     "unidad 2/23-10-2023",
     "Recording 20231006174946.webm",
-    "unidad 1/06-10-2023/Modelos ágiles para desarrollar sistemas de información/Sin título.md",
-    "unidad 2/20-10-2023/scrumm/Sin título.md",
     "Recording 20231020180527.webm",
     "book/Fundamentos de programación, algoritmos, estructura de datos y objetos (Luis Joyanes Aguilar) (Z-Library) (1).pdf",
-    "unidad 2/13-10-2023/Abstraccion.md",
     "Fundamentos de programación, algoritmos, estructura de datos y objetos (Luis Joyanes Aguilar) (Z-Library) (1) 1.pdf",
-    "05 FIS MODELOS AGILES.pdf.md",
     "unidad 2/13-10-2023/Vehiculo.canvas",
     "unidad 2/13-10-2023/Transporte.canvas",
     "unidad 2/13-10-2023/opp abstracion.canvas",
     "Recording 20231020173131.webm",
-    "Sin título.md",
-    "unidad 1/04-10-2023/Modelos ágiles para desarrollar sistemas de información/a.md",
-    "unidad 1/18-09-2023 Modelado de software/18-09-2023/UML APUNTES.md",
-    "path/to/my image.jpg.md",
-    "Pasted image 20231013175227.png =250x.md",
-    "Sin título 1.md",
-    "unidad 1/27-09-2023/a.md",
-    "unidad 1/27-09-2023/Sin título.md",
-    "unidad 2/11-10-2023/Sin título.md",
     "unidad 1/09-10-2023/Sin título.canvas",
-    "unidad 1/15-09-2023/Validacion de los requerimentos/Validacion de los requerimentos.md",
     "unidad 1/15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/CASO DE USO.canvas",
     "unidad 1/15-09-2023/Sin título.canvas",
     "unidad 1/25-09-2023/Modelo de clase.canvas",
