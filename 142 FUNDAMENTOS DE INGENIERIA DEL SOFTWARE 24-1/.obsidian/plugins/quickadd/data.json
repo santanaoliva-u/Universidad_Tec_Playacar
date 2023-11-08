@@ -1,0 +1,71 @@
+{
+  "choices": [
+    {
+      "id": "287d4ba7-7b05-45b8-9b20-b3be10909583",
+      "name": "🦖 Personal  Tasks Projects Dashboard - Snifer@L4bs",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "0d38af54-498c-4266-89a6-efce58fd158d",
+          "name": "🚧 Project",
+          "type": "Template",
+          "command": true,
+          "templatePath": "Settings/Templates/tpl.project",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [
+              "Projects"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "390be24d-eed3-4473-8c8a-f358c22b9a45",
+          "name": "🗈 src",
+          "type": "Template",
+          "command": true,
+          "templatePath": "Settings/Templates/tpl.src",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "src"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ]
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

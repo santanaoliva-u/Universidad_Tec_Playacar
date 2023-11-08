@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"13710ca567cf509e","type":"text","text":"Transporte","x":68,"y":-280,"width":158,"height":60},
+		{"id":"aacc0ebaf1579029","type":"text","text":"Tranporte Publico","x":0,"y":-53,"width":147,"height":60},
+		{"id":"942d58285125d8ca","x":95,"y":50,"width":105,"height":60,"color":"1","type":"text","text":"taxi"},
+		{"id":"1d61a330567cfa07","x":-45,"y":50,"width":113,"height":58,"color":"4","type":"text","text":"Combi"},
+		{"id":"94ba4f9377556f81","type":"text","text":"Tranporte Privado","x":260,"y":-53,"width":134,"height":60},
+		{"id":"fb48328262496eed","x":240,"y":50,"width":101,"height":60,"color":"6","type":"text","text":"Uber"},
+		{"id":"bea2f892ddaf9c3a","x":394,"y":50,"width":129,"height":60,"color":"3","type":"text","text":"mayab"}
+	],
+	"edges":[
+		{"id":"4e08389b6f27e5f5","fromNode":"13710ca567cf509e","fromSide":"bottom","toNode":"aacc0ebaf1579029","toSide":"top"},
+		{"id":"8585a56e07d438ad","fromNode":"13710ca567cf509e","fromSide":"bottom","toNode":"94ba4f9377556f81","toSide":"top"},
+		{"id":"3c6280ca626a6aaa","fromNode":"aacc0ebaf1579029","fromSide":"bottom","toNode":"1d61a330567cfa07","toSide":"top"},
+		{"id":"a3d4a9cbdb9ef26b","fromNode":"aacc0ebaf1579029","fromSide":"bottom","toNode":"942d58285125d8ca","toSide":"bottom"},
+		{"id":"bf7f8dfcd94a9642","fromNode":"94ba4f9377556f81","fromSide":"bottom","toNode":"fb48328262496eed","toSide":"top"},
+		{"id":"61aec0260d95a897","fromNode":"94ba4f9377556f81","fromSide":"bottom","toNode":"bea2f892ddaf9c3a","toSide":"right"}
+	]
+}

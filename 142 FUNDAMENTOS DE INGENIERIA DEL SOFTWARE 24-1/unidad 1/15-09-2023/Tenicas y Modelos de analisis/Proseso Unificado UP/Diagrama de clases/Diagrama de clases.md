@@ -1,0 +1,1 @@
+un diagrama de clases descrine los tipos de objetos ( [clases] ) que  componen el sistema los diferentes tipos de relaciones estaticas que existen entre estos

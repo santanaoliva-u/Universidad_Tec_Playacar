@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"03d4cd70f8a1917f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Clase\n"},
+		{"id":"b08068f03f28b5e0","x":-125,"y":30,"width":250,"height":60,"type":"text","text":"Atributo"},
+		{"id":"4349daf3f40e1cb2","x":-125,"y":90,"width":250,"height":60,"type":"text","text":"metodo"}
+	],
+	"edges":[]
+}

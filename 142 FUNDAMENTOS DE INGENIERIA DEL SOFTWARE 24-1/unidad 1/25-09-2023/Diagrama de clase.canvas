@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b198f5e1b4b30025","type":"text","text":"Bici\n- llantas \n- pelades \n- manublio","x":-340,"y":-80,"width":250,"height":200},
+		{"id":"469915fb1e4bc4cc","type":"text","text":"Coche\n- llantas \n- motor \n- cajuela","x":280,"y":-80,"width":250,"height":200},
+		{"id":"e99008f932bd7913","type":"text","text":"Moto\n- Llantas \n- manueblio\n- motor ","x":-20,"y":-80,"width":250,"height":200},
+		{"id":"e666b664cd08b15e","type":"text","text":"Vehiculo","x":-20,"y":-360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cd29ae66b8e28fb3","fromNode":"e666b664cd08b15e","fromSide":"bottom","toNode":"e99008f932bd7913","toSide":"top"},
+		{"id":"ba35e93bb1463b88","fromNode":"e666b664cd08b15e","fromSide":"bottom","toNode":"b198f5e1b4b30025","toSide":"top"},
+		{"id":"7d65846625f38d8e","fromNode":"e666b664cd08b15e","fromSide":"bottom","toNode":"469915fb1e4bc4cc","toSide":"top"}
+	]
+}

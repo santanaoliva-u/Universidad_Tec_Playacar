@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"aacc0ebaf1579029","type":"text","text":"AREOS","x":-100,"y":-53,"width":122,"height":60},
+		{"id":"94ba4f9377556f81","type":"text","text":"MARINOS","x":280,"y":-53,"width":140,"height":60},
+		{"id":"d60d9b94fa6f82bb","type":"text","text":"TERRESTRES","x":68,"y":-53,"width":158,"height":60},
+		{"id":"13710ca567cf509e","type":"text","text":"VEHICULO","x":68,"y":-280,"width":158,"height":60},
+		{"id":"038457fbac8ad4aa","x":-205,"y":-380,"width":250,"height":77,"type":"text","text":"![[Recording 20231013173144.webm]]\n"}
+	],
+	"edges":[
+		{"id":"4e08389b6f27e5f5","fromNode":"13710ca567cf509e","fromSide":"bottom","toNode":"aacc0ebaf1579029","toSide":"top"},
+		{"id":"8585a56e07d438ad","fromNode":"13710ca567cf509e","fromSide":"bottom","toNode":"94ba4f9377556f81","toSide":"top"},
+		{"id":"9bfb771d90b777be","fromNode":"13710ca567cf509e","fromSide":"bottom","toNode":"d60d9b94fa6f82bb","toSide":"top"}
+	]
+}

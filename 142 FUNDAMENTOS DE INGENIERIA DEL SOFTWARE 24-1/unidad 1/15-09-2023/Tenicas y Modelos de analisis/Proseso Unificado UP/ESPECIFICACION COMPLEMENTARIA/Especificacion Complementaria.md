@@ -1,0 +1,1 @@
+Requerimientos funcionales y fomas textuales con diagramas ,etc.

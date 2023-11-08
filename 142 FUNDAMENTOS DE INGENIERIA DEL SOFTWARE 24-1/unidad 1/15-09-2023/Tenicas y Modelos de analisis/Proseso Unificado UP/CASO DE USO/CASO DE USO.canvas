@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"2cd8a9e19ae824a0","type":"text","text":"FUENTE","x":-320,"y":-30,"width":250,"height":60},
+		{"id":"819caee27bcbe4bb","type":"text","text":"CAPTURA","x":-30,"y":-30,"width":250,"height":60},
+		{"id":"bec8992dfc8295de","type":"text","text":"ALTA","x":620,"y":-30,"width":250,"height":60},
+		{"id":"a1db9326bb472873","type":"text","text":"ASISTENCIA","x":-30,"y":220,"width":250,"height":60},
+		{"id":"17d59771593f2eb8","type":"text","text":"VALIDAR","x":-320,"y":220,"width":250,"height":60},
+		{"id":"d8750750e1f6d406","type":"text","text":"REGISTRO","x":-320,"y":100,"width":250,"height":60},
+		{"id":"682b2faf1c7e3b84","type":"text","text":"ASITIDO","x":-30,"y":100,"width":250,"height":60},
+		{"id":"f8100c8404c4c3a2","type":"text","text":"NOMINA","x":300,"y":250,"width":250,"height":60},
+		{"id":"662f60c8e9e1eeb3","type":"text","text":"VALIDACION","x":300,"y":-30,"width":250,"height":60},
+		{"id":"d0b3dbb3e8cb3299","type":"text","text":"PROSESO DE ALTA","x":-620,"y":-140,"width":250,"height":80,"color":"1"},
+		{"id":"78596c3f2fd8fd75","type":"text","text":"ASISTENCIA","x":-620,"y":30,"width":250,"height":60,"color":"1"},
+		{"id":"bc3ee7a8477924fd","type":"text","text":"QNA","x":-620,"y":160,"width":250,"height":60,"color":"1"},
+		{"id":"fce7a64de4e13fc3","type":"file","file":"unidad 1/15-09-2023/Pasted image 20230915174949.png","x":-320,"y":-707,"width":979,"height":567},
+		{"id":"599197987a0a4c1e","type":"file","file":"unidad 1/15-09-2023/Pasted image 20230915175546.png","x":745,"y":-1062,"width":830,"height":922},
+		{"id":"4736832bebf044e9","type":"file","file":"unidad 1/15-09-2023/Tenicas y Modelos de analisis/Proseso Unificado UP/CASO DE USO/Casos de uso.md","x":-1160,"y":-373,"width":400,"height":593}
+	],
+	"edges":[
+		{"id":"9d609bedd016102a","fromNode":"2cd8a9e19ae824a0","fromSide":"right","toNode":"819caee27bcbe4bb","toSide":"left"},
+		{"id":"52873f8850da5c9e","fromNode":"819caee27bcbe4bb","fromSide":"right","toNode":"662f60c8e9e1eeb3","toSide":"left"},
+		{"id":"40b67961a0cc6b90","fromNode":"d8750750e1f6d406","fromSide":"right","toNode":"682b2faf1c7e3b84","toSide":"left"},
+		{"id":"157063f0c412bf64","fromNode":"17d59771593f2eb8","fromSide":"right","toNode":"a1db9326bb472873","toSide":"left"},
+		{"id":"a09782fdae6bd9ed","fromNode":"a1db9326bb472873","fromSide":"right","toNode":"f8100c8404c4c3a2","toSide":"top"},
+		{"id":"9275e71b48d609ab","fromNode":"662f60c8e9e1eeb3","fromSide":"right","toNode":"bec8992dfc8295de","toSide":"left"},
+		{"id":"564287531c8c0678","fromNode":"d0b3dbb3e8cb3299","fromSide":"right","toNode":"2cd8a9e19ae824a0","toSide":"left"},
+		{"id":"d17dd5ffe98fd64d","fromNode":"78596c3f2fd8fd75","fromSide":"right","toNode":"d8750750e1f6d406","toSide":"left"},
+		{"id":"3a794b5c2ff8f63b","fromNode":"bc3ee7a8477924fd","fromSide":"right","toNode":"17d59771593f2eb8","toSide":"left"},
+		{"id":"3bb0aee775f19430","fromNode":"4736832bebf044e9","fromSide":"right","toNode":"fce7a64de4e13fc3","toSide":"left"}
+	]
+}

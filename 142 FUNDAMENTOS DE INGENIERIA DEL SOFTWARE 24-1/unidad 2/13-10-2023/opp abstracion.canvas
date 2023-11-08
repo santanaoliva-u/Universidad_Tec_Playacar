@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"f4c49db79cd8d594","type":"text","text":"Docentes","x":-53,"y":-11,"width":125,"height":60},
+		{"id":"1dc144a1ac5b2b71","type":"text","text":"estudiantes","x":-220,"y":-11,"width":140,"height":60},
+		{"id":"7b456112a4883a55","type":"text","text":"Ambito","x":100,"y":-11,"width":120,"height":60},
+		{"id":"c1540c9e4cbe4989","type":"text","text":"Responsabilidades","x":-88,"y":-200,"width":188,"height":60,"color":"1"},
+		{"id":"d67868d6a8402331","type":"text","text":"Materia\nNombre\nGenero\nFecha","x":-200,"y":185,"width":120,"height":115,"color":"1"},
+		{"id":"659e8705a20c94a6","type":"text","text":"Estudiar()\nAsistir()\nAprobar()","x":-200,"y":320,"width":147,"height":120,"color":"4"},
+		{"id":"fdb8a469ce102590","type":"text","text":"ORIENTADO A OBJETOS ES UNA ABSTRACCION","x":-660,"y":125,"width":250,"height":60},
+		{"id":"23cda14331169fc2","type":"text","text":"Metodo","x":-410,"y":333,"width":160,"height":60,"color":"4"},
+		{"id":"c5548a876f22d144","type":"text","text":"ATTR","x":-385,"y":213,"width":111,"height":60,"color":"1"},
+		{"id":"e0ce16a5742bdcd9","x":-535,"y":-71,"width":250,"height":60,"type":"text","text":"![[Recording 20231013172444.webm]]\n"},
+		{"id":"5a3ff0167c96b488","x":-800,"y":500,"width":1440,"height":50,"color":"#00ff04","type":"text","text":""},
+		{"id":"5a0813eaa1a81eeb","x":-800,"y":-270,"width":50,"height":770,"color":"#00ff33","type":"text","text":""},
+		{"id":"e8b959230eff36f3","type":"text","text":"","x":-800,"y":-320,"width":1440,"height":50,"color":"#00ff04"},
+		{"id":"5315f8034a908f8b","type":"text","text":"","x":590,"y":-270,"width":50,"height":770,"color":"#37ff00"}
+	],
+	"edges":[
+		{"id":"b2b59611d4d02c3b","fromNode":"c1540c9e4cbe4989","fromSide":"bottom","toNode":"1dc144a1ac5b2b71","toSide":"top"},
+		{"id":"a2d3f2b3727ee733","fromNode":"c1540c9e4cbe4989","fromSide":"bottom","toNode":"f4c49db79cd8d594","toSide":"top"},
+		{"id":"b007a51db70fb832","fromNode":"c1540c9e4cbe4989","fromSide":"bottom","toNode":"7b456112a4883a55","toSide":"top"},
+		{"id":"1aadc0ba32b546b1","fromNode":"23cda14331169fc2","fromSide":"right","toNode":"659e8705a20c94a6","toSide":"left"},
+		{"id":"550aa3bb4c41022d","fromNode":"c5548a876f22d144","fromSide":"right","toNode":"d67868d6a8402331","toSide":"left"}
+	]
+}

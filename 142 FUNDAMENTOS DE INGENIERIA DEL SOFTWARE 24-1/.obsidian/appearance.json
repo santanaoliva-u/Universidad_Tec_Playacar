@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Shiba Inu",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "cards",
+    "dashboard",
+    "homepage setting",
+    "tables-round",
+    "clean-embeds"
+  ],
+  "theme": "obsidian"
+}
