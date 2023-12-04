@@ -22,88 +22,31 @@
             }
           },
           {
+            "id": "41e697bb84a6b037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76be83370c9ade77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3d8d390181bd126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7197dc075fa5b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fb674a514f0b779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Parcial/05-09-2023/Criterios de Evaluacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1e4d2528e49779",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1 Parcial/09-07-2023/Pasted image 20230907151150.png"
-              }
-            }
-          },
-          {
-            "id": "dbaa9f8fe7074909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "parcial 2/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2911b97995f7d971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "parcial 2/Sin título.md",
+                "file": "parcial 2/Sin título 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task and Project Management Dashboard.md",
+                "file": "Sin título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task and Project Management Dashboard.md",
+                "file": "Sin título 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task and Project Management Dashboard.md"
+                "file": "Sin título 1.md"
               }
             }
           }
@@ -271,7 +214,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
@@ -279,17 +221,28 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b71633beb1bc7951",
+  "active": "41e697bb84a6b037",
   "lastOpenFiles": [
+    "Task and Project Management Dashboard.md",
+    "Sin título 1.md",
+    "parcial ultimo",
+    "parcial 2/Tarea/psudocigo y bucle.pdf",
+    "parcial 2/Investigar que son los arreglos en PSeint.md",
+    "Sin título.md",
+    "Readme.md",
+    "1 Parcial/05-09-2023/Criterios de Evaluacion.md",
+    "1 Parcial/09-07-2023/Pasted image 20230907151150.png",
+    "parcial 2/Tarea/Investigar que son los arreglos en PSeint.pdf",
+    "parcial 2/Tarea",
+    "parcial 2/Nueva carpeta",
     "parcial 2/Sin título 1.md",
     "Pasted image 20231031191435.png",
-    "parcial 2/Sin título.md",
     "Sin título.canvas",
     "Pasted image 20231031183213.png",
-    "Task and Project Management Dashboard.md",
     "Pasted image 20231026180852.png",
     "Pasted image 20231026180736.png",
     "Pasted image 20231026180617.png",
@@ -298,20 +251,11 @@
     "1 Parcial/Tareas/Tarea de Algoritmos (2).pdf",
     "1 Parcial/Tareas/subir tarea (1).pdf",
     "1 Parcial/Tareas/Tarea_4_Metodologia.pdf",
-    "1 Parcial/Tareas/Tarea_5_Descagar_PSEINT.pdf",
-    "1 Parcial/Tareas/Las funciones primitivas (1).pdf",
-    "1 Parcial/Tareas",
-    "1 Parcial/Nueva carpeta",
     "1 Parcial/09-07-2023/Pasted image 20230907154801.png",
     "1 Parcial/09-07-2023/Pasted image 20230907152216.png",
     "1 Parcial/09-07-2023/Pasted image 20230907151539.png",
     "1 Parcial/09-07-2023/Pasted image 20230907152121.png",
-    "1 Parcial/09-07-2023/Pasted image 20230907151831.png",
     "1 Parcial/09-07-2023/DISENO ESTRUCTURADO 07-09-2023.md",
-    "Readme.md",
-    "1 Parcial/05-09-2023/Criterios de Evaluacion.md",
-    "Sin título.md",
-    "1 Parcial",
     "Settings/README.md",
     "TODO.md",
     "Projects/Contenido curso.md",

@@ -1,3 +1,4 @@
+
 ###### Primero, se le pide al usuario que ingrese la cantidad de nombres que desea ingresar. Esta cantidad se almacena en la variable num.
 ###### Luego, se inicia un bucle Para que va desde 1 hasta num. En cada iteración de este bucle, se le pide al usuario que ingrese un nombre. 
 ###### Este nombre se almacena en la posición correspondiente del arreglo nombres. Después de leer y almacenar todos los nombres, el pseudocódigo imprime cada nombre almacenado en el arreglo.

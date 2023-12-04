@@ -40,19 +40,40 @@
             "id": "fb5928bfb0b1e6ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
-                "viewState": {
-                  "x": 181.39482676104686,
-                  "y": 474.9324103893915,
-                  "zoom": -1.4052775195903855
-                }
+                "file": "Unidad 6/08-11-2023/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe1f534b41cb855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 6/Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e071eef45677e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 200
   },
   "right": {
     "id": "9301136ca93b4253",
@@ -179,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+                "file": "Task and Project Management Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+                "file": "Task and Project Management Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas"
+                "file": "Task and Project Management Dashboard.md"
               }
             }
           }
@@ -221,7 +242,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
@@ -229,42 +249,45 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fb5928bfb0b1e6ae",
+  "active": "a34cd77b3152999f",
   "lastOpenFiles": [
     "Settings/Taskido/Tareas.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
-    "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título 1.canvas",
+    "Recording 20231110192949.webm",
+    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.canvas",
+    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Capa de transporte Inforgrafia.png",
+    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Sin título.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/se califica.md",
     "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.md",
     "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título 1.md",
+    "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023/Sin título.canvas",
+    "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título 1.canvas",
+    "Task and Project Management Dashboard.md",
+    "Recording 20231110171458.webm",
+    "Unidad 6/10-11-2023",
+    "Unidad 6/Sin título.md",
+    "Recording 20231108191146.webm",
+    "Unidad 6/08-11-2023",
+    "Unidad 6/08-11-2023/Sin título.md",
+    "Unidad 6",
     "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023/Sin título.md",
     "Parcial 2/UNIDAD 4/Unidad 4/30-10-2023",
-    "Task and Project Management Dashboard.md",
     "Parcial 1/04-10-2023/Readme.md",
     "Parcial 1/04-10-2023/binarios.md",
     "Parcial 1/09-10-2023/Capa de Transporte.md",
     "Parcial 2/UNIDAD 4/Unidad 4/Sin título.md",
     "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231009184631.webm",
-    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Sin título.md",
     "Parcial 1/06-09-2023/Concepto de arquitectura de redes.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.canvas",
     "Parcial 2/UNIDAD 4/Unidad 4/25-10-2023",
-    "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023/Sin título.md",
     "Parcial 2/UNIDAD 4/Unidad 4/23-10-2023",
     "Parcial 1/08-09-2023/Resumen de la Clase 08-09-2023.md",
     "Pasted image 20230908191351.png.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/se califica.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/09-10-2023 CAPAS DE TRANPORTE/Capa de transporte Inforgrafia.png",
     "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Temas.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011185622.webm",
     "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Sin título.md",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011192512.webm",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011191954.webm",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011190506.webm",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-10-2023 Tarea de  Equipo/Recording 20231011185927.webm",
-    "Parcial 2/UNIDAD 4/Unidad 4/11-",
     "Parcial 2/09-10-2023 UNIDAD 4/Unidad 4/1.png",
     "Parcial 1/27-09-2023/Sin título.canvas",
     "Parcial 1/25-09-2023/Tarea Protocolos y funcionalidad de la capa de aplicación..md",
@@ -280,8 +303,6 @@
     "Parcial 1/04-10-2023/Pasted image 20231004190347.png",
     "Parcial 1/04-10-2023/Pasted image 20230925192231.png",
     "Settings/Config/Dash_project_kanban.md",
-    "Settings/Config/Dash_projects.md",
-    "Settings/Config/Dash_header.md",
-    "Settings/Config/Dash_calendar.md"
+    "Settings/Config/Dash_projects.md"
   ]
 }

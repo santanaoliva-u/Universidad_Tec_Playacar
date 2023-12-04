@@ -83,6 +83,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c8f2a99f11d67ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parcial 1/Task and Project Management Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
         "currentTab": 5
@@ -222,6 +236,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
@@ -229,16 +246,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "homepage:Open homepage": false
     }
   },
   "active": "f0914d6cf13e3f71",
   "lastOpenFiles": [
-    "parcial 1/TODO.canvas",
     "parcial 1/Task and Project Management Dashboard.md",
+    "parcial 1/9-5-2023/Correo del profesor.md",
+    "parcial 1/TODO.canvas",
     "parcial 1/tarea.md",
     "parcial 1/Sin título.canvas",
     "parcial 1/Readme.md",
@@ -259,7 +274,6 @@
     "Pasted image 20230908191351.png",
     "Tarea de Algoritmos.md",
     "Tarea Resuelveme estas operaciones arimeticas aso a paso.md",
-    "parcial 1/9-5-2023/Correo del profesor.md",
     "parcial 1/9-5-2023/Temario.png",
     "parcial 1/9-5-2023",
     "Tarea.md",

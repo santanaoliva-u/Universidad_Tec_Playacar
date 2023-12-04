@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #4caf50;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.price {
+    color: #f44336;
+    font-weight: bold;
+}
+
+.contact-info {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.footer {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.c-b {
+    background-color: rgb(76, 175, 170);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.c-w {
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/*
+ * Navegación
+ */
+nav {
+	float: right;
+}
+	nav ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+	}
+	
+		nav ul li {
+			display: inline-block;
+			line-height: 80px;
+		}
+			
+			nav ul li a {
+				display: block;
+				padding: 0 10px;
+				text-decoration: none;
+			}
+			
+				nav ul li a:hover {
+					background: #0b76a6;
+				}
+	
+
+
+
+.logo {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
